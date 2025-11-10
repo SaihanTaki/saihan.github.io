@@ -71,10 +71,24 @@
     </item>
     <item>
       <title>Emoji Support</title>
+      <link>http://localhost:1313/notes/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
       <link>http://localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>Hello Everyone</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is &lt;code&gt;Abdullah Saihan&lt;/code&gt;. I have 1.5 yers of experience as an Artificial Intelligence Engineer. I&amp;rsquo;m based on Dhaka, Bangladesh.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
